@@ -2,6 +2,10 @@
 
 Write ARM GPIO Assembly with no CMSIS!		June 29, 2020
 
+I appreciate comments. Shoot me an email at noel_s_cruz@yahoo.com!
+
+Hire Me!
+
 Write constants patterned after stm32l1xx.h and utilize data structures defined to
 increase readability & portability.
 
@@ -163,5 +167,9 @@ stop 	b stop
 		ENDP
     
 		END
+		
+I appreciate comments. Shoot me an email at noel_s_cruz@yahoo.com!
+
+Hire Me!
 
 Happy coding!
